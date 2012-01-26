@@ -23,6 +23,8 @@ def shopSmart(orderList, fruitShops):
         fruitShops: List of FruitShops
     """    
     "*** YOUR CODE HERE ***"
+    
+    
     return None
     
 if __name__ == '__main__':
